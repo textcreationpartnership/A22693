@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaratie van de causen mouerende hare Coninglicke Maiesteit van Englandt, een vlote van schepen ter zee te afuerdigen tot defensie van hare landschappen, tegen gewelt des Conings van Spaignen om gepubliceert te worden by de ouerste vande voorseyde vlote, ten einde dat al de werelt mach weten dat hare Maiesteit, dese vlote afueererdight alleenlick om hare seluen te veschermen ende hare vianden te beschadigen, sonder pemandt anders te offenseren die haren viandt niet en verstercken, maer deselue in alder vriendelicheit te tracteren.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22693</idno>
+            <idno type="STC">STC 9205</idno>
+            <idno type="STC">ESTC S100701</idno>
+            <idno type="EEBO-CITATION">99836531</idno>
+            <idno type="PROQUEST">99836531</idno>
+            <idno type="VID">809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 809)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 240:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaratie van de causen mouerende hare Coninglicke Maiesteit van Englandt, een vlote van schepen ter zee te afuerdigen tot defensie van hare landschappen, tegen gewelt des Conings van Spaignen om gepubliceert te worden by de ouerste vande voorseyde vlote, ten einde dat al de werelt mach weten dat hare Maiesteit, dese vlote afueererdight alleenlick om hare seluen te veschermen ende hare vianden te beschadigen, sonder pemandt anders te offenseren die haren viandt niet en verstercken, maer deselue in alder vriendelicheit te tracteren.</title>
+                  <author>England and Wales.</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+                  <author>Essex, Robert Devereux, Earl of, 1566-1601.</author>
+                  <author>Nottingham, Charles Howard, Earl of, ca. 1536-1624.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>By de gedeputeerde van Christoffel Barker, drucker des Coninglicke Maiesteyts,</publisher>
+                  <pubPlace>Gedruckt tot London :</pubPlace>
+                  <date>Anno 1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R. Essex. C. Howard.</note>
+                  <note>A translation of: A declaration of the causes moving the Queenes Majestie of England, to prepare and send a navy to the seas, for the defence of her realmes against the Kinge of Spaines forces.</note>
+                  <note>The Latin edition is dated at end: Greenwich, 25 April 1596.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="dut">dut</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cadiz Expedition, 1596 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="dut">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:809:1"/>
+            <pb facs="tcp:809:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:cross">✚</g> Declaratie van de Cauſen mouerende hare Coninglicke Ma<g ref="char:EOLhyphen"/>ieſteit van Englandt, een Vlote van Schepen ter Zee te afuerdigen tot defenſie van hare Landſchappen, tegen gewelt des Conings van Spaignen: om gepubliceert te worden by de Ouerſte vande voorſeyde Vlote, ten einde dat al de werelt mach weten dat hare Maieſteit, deſe Vlote afueer<g ref="char:EOLhyphen"/>dight alleenlick om hare ſeluen te beſcher<g ref="char:EOLhyphen"/>men ende hare vianden te beſchadigen, ſonder pemandt anders te offenſeren die ha<g ref="char:EOLhyphen"/>ren viandt niet en verſtercken, maer deſelue in alder vriendelicheit te tracteren.</p>
+            <figure/>
+            <p>Gedruckt tot London, by de Gedepu<g ref="char:EOLhyphen"/>teerde van <hi>Chriſtoffell Barker,</hi> Drucker des Coninglicke Maieſteyts. <hi>Anno 1596.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:809:2"/>
+            <pb n="1" facs="tcp:809:2"/>
+            <head>
+               <g ref="char:cross">✚</g> Declaratie van de Cauſen mouerende hare Coninglicke Maieſteyt van England, een vlote van ſchepen ter Zee te afueerdigen tot defenſie van hare Landſchappen, tegen het gewelt des Conings van Spaignen, &amp;c.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ot alle Chriſtenen volcke, die deſe Declaratie ſullen hooren of<g ref="char:EOLhyphen"/>te leſen, groeteniſſe.</salute>
+            </opener>
+            <p>Wy <hi>Robert</hi> Graue van Eſſex ende Ewe, Ba<g ref="char:EOLhyphen"/>roen Ferrers van Chartley, Bourchier ende lueuen, &amp;c. ende <hi>Carel Howard,</hi> Baroen van Ef<g ref="char:EOLhyphen"/>fingam, opperſte Admirael van England, &amp;c. beuel hebbende ouer de Coninglicke vlote van ſchepen toegeruſt ende geſonden ter Zee by de Doorluchtichſte Princeſſe <hi>Elizabeth</hi> Conin ginne van England, Vranckerycke ende Ireland. &amp;c. geuen een ygelicke te kenne, dat de voorſeyde, vlote is by hare Maieſteit afgeueerdight ende ge<g ref="char:EOLhyphen"/>ſonden ter Zee om hare Maieſteits Dominien, ende onderſaeten te beſchermen tegen het groot ge welt, t'welck alreede bereyt is (alſo wy van alle canten gewaerſchuwt ſyn) by den Coning van Spaignen, ende noch dagelicx met prouiſie van mannen ende ſchepen wort vermeerdert, om te oueruallen hare Maieſteits Dominien, gelyck hier te voren in't Iaer 1588. (euen ter ſeluer tyt als een Tractaet van peys was gehandelt tuſſchen hun beyde Commiſſa<g ref="char:EOLhyphen"/>riſſen) was aengericht met grooter gewelt dan oyt te voren in ſynen tyde ter Zee was wtgeſtelt, doch door Gods goedicheyt, ende byſondere vromicheyt
+<pb n="2" facs="tcp:809:3"/>
+ende wyſheyt van hare Edele end getrouwe onder<g ref="char:EOLhyphen"/>ſaeten, was teenemael gefruſtreet ende vernietight. Ende om dies wille dat hare Maieſteit wel verſe<g ref="char:EOLhyphen"/>kert is vande goede vriendſchap die ſy heeft met alle Coningen ende vorſten van Chriſtenrycke, wtge<g ref="char:EOLhyphen"/>nomen met den Coning van Spaignen, dewelcke ouer menighe Iaeren door diuerſche Actien hem heeft be weſen een openbaer vyandt, ſo wel tegen ha<g ref="char:EOLhyphen"/>ren Coninglicken perſoone, als tegen haren volcke ende landen, ſonder dat hem daertoe eenige rechte oorſaecke van wege hare Maieſteits is gegeuen: Derhaluen wy voorſeyde Graue ende Admirael ver<g ref="char:EOLhyphen"/>condigen een ygelicke dat wy ſtreght beuel hebben van hare Maieſteit niemant te beſchadigen in onſe voyage van wat natie hy ſy, dan de voorſeyden Co<g ref="char:EOLhyphen"/>ning van Spaignen naturlicke onderſaeten, ende ſodanige ander vremde perſoonen, die den voorſey<g ref="char:EOLhyphen"/>den Coning openbaerlick aſſiſteren met volke, ſche<g ref="char:EOLhyphen"/>pen, gheſchut, victuaille ende diergelyke prouiſie van oorloge om hare Maieſteit te oueruallen. Welck hare Maieſteit gebodt wy meynen getrou<g ref="char:EOLhyphen"/>welick wt te voeren, ende daerom wy ſtreghtelick beuelen een ygelick, die hem ſeluen in deſe vlote on<g ref="char:EOLhyphen"/>der ons heeft begeuen, ſulcx te onderhouden op pey<g ref="char:EOLhyphen"/>ne van grootelicx geſtraft te wezen. Ende om te ver<g ref="char:EOLhyphen"/>myden alle oorſaeken van queſtie, wie die ſyn moch<g ref="char:EOLhyphen"/>ten (niet weſende des Conings van Spaignen on<g ref="char:EOLhyphen"/>derſaeten) die wy nemen ende houden ſullen voor o<g ref="char:EOLhyphen"/>penbare hulpers vande toeruſtinge des Conings gewelt by water ofte by lande om te attenteren eenige inuaſie op hare Maieſteits landſchappen, om ſulckx breeder te verclaren, ſo bidden wy in Gods name ende ernſtelick gebieden een ygelick
+<pb n="3" facs="tcp:809:3"/>
+niet weſende des voorſeyden Conings naturelick onderſaet, ende hem nochtans heeft geaſſiſteert met ſchepen, victuaille ende munitie (alſo te voren ge<g ref="char:EOLhyphen"/>ſeyt is) ſich te vertrecken met hunne ſchepen ende prouiſien wt alle hauenen van Spaignen ofte Por<g ref="char:EOLhyphen"/>tugal, ende wt het geſelſchap ende dienſte van des Conings ſchepen tegen onſe vlote, ende met de ſelue weeder te keeren in hun eygen lande, ofte indien ſy ſo goet duncken, te comen tot onſe vlote, wy belouen deſelue in de<g ref="char:cmbAbbrStroke">̄</g> name va<g ref="char:cmbAbbrStroke">̄</g> onſe ſouueraine Coninginne alle ſecuriteyt voor hunne perſoone<g ref="char:cmbAbbrStroke">̄</g> ende goede<g ref="char:cmbAbbrStroke">̄</g>, ende deſelue te tracteren ende beſchermen als vrienden, ooc hun toe te laeten alle hun ſchepen ende prouiſien (het ſy dat die genomen waeren by den Coning van Spaignen, ende gepretendert tot ſynen dienſte, ofte by de proprietariſſen ſelue van ſyne aſſiſtentie herto<g ref="char:EOLhyphen"/>ghen) te blyuen in hun eygen vrye diſpoſitie, ſo verre ſy hun gedragen als vrienden ende niet als vianden van hare Maieſteyt ende van ons hunne Ouerſte: ende ſo verre yemant op wetenſchap deſes hare Ma<g ref="char:EOLhyphen"/>ieſteyts heerlicke ordonancie, ende van onſe belofte deſelue ſo fauorablick te onderhouden als het mo<g ref="char:EOLhyphen"/>gelick is, moet williglick ende openlick refuſeert deſe aenbiedinge, ende hunſeluen niet benerſtight om te volbrengen deſe redelicke begeerte ſtreckende tot hunnen goede ende vryheyt, wy ſullen dan met rechte gemoueertſyn (als by rechte van oorloge toe<g ref="char:EOLhyphen"/>gelaeten is) te nemen ende tracteren al ſulcke per<g ref="char:EOLhyphen"/>ſoonen refuſerende deſe onſe aenbiedinge, als open<g ref="char:EOLhyphen"/>bare hulpers des Conings van Spaignen om met gewelt hare Maieſteit dominien te ouer valle<g ref="char:cmbAbbrStroke">̄</g>, ende dieſuolgende als openbaere vyanden, ende ſo verre by het refuſeren van deſe aenbiedinge, hun eenighe
+<pb n="4" facs="tcp:809:4"/>
+ſchade ſal beuallen by eenige van onſe vlote, ſullen die hiernamaels geen rechte oorſaecke hebben hun te beclaegen, ofte te procureren dat hunne natur<g ref="char:EOLhyphen"/>licke Princen ofte vorſten ons ſouden ſolliciteren om reſtitutie ende amende voor het ſelue, Ende tot breeder verclaeringe hieruan, hebben wy goet ge<g ref="char:EOLhyphen"/>uonden den Originael van deſen te onderteeknen met onſe eygen handen ende ſegelen, op dat het ge<g ref="char:EOLhyphen"/>ſien ende geleſenworde van een ygelick die t'ſal be<g ref="char:EOLhyphen"/>geeren. Ende in gelyker wiſe hebben wy het ſelue in Drucke laeten wtgaen in Latinſche, Franſche, Italianſche, Duytſche ende Spaenſche taele, ende doen diſtribueren in alle hauenen van Spaignen, Portugal, ende alle andere meer die onder ſyn ſub<g ref="char:EOLhyphen"/>iectie ſyn daer wyhet bequaemlick doen conden, om beter wetenſchap hieruan in deſelue plaetſen te ge<g ref="char:EOLhyphen"/>uen.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>R. Eſſex.</item>
+                     <item>C. Howard.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:809:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
